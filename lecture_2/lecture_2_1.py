@@ -4,3 +4,7 @@ def solution(A):
     for num in A :
         start_number = num ^ start_number
     return start_number
+
+
+# another solution
+
