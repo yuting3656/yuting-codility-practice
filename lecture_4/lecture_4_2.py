@@ -10,6 +10,10 @@ def solution(X, A):
     return -1
 
 
+def solution2(A):
+    leaves = set()
+
+
 if __name__ == "__main__":
     print(solution(5, [1, 3, 1, 4, 2, 3, 5, 4]))
 
